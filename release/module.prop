@@ -1,0 +1,7 @@
+id=pro-rec-ingres
+name=Pro Rec ingres
+version=v0.1.0
+versionCode=100
+author=Paulo José
+description=Improves the audio quality in video recording for ingres devices like POCO F4 GT and Redmi K50 Gaming on MIUI 13. Record videos with maximum audio quality from the stock camera and other apps, in ACC up to 288k mono, 576k stereo, and 768k 5.1 surround. Replaces "media_profiles.xml" files in vendor.
+updateJson=https://github.com/pauloup/pro-rec-ingres/raw/main/update.json
